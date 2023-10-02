@@ -1,19 +1,10 @@
 ### DeFi Native
 
-### Onchain Analyst
+### Onchain Analyst 
 
-### Gunslinger Rank Analyst in Flipside Crypto 
-
-### Proficient in 
-SQL, Typescript, Python, GraphQL
-
-### Has used 
-- NextJS, React, Apollo, Web3.js, MongoDB, ChartJS, Recharts
-- Pandas, Numpy, Bokeh, Matplotlib, Web3.py, Flask
 
 ### [Resume](https://github.com/darvinrio/darvinrio/blob/main/darvin_resume_with_links.pdf)
 ### [Twitter](https://twitter.com/maybeYonas)
-### [FlipsideCrypto CEA](https://flipsidecrypto.xyz/maybeYonas-7121)
 
 
 <!---
