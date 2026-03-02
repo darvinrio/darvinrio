@@ -3,7 +3,7 @@
 ### Onchain Analyst 
 
 
-### [Resume](https://github.com/darvinrio/darvinrio/blob/main/darvin_resume__crypto___no_hyperlink_.pdf)
+### [Resume]([https://github.com/darvinrio/darvinrio/blob/main/darvin_resume__crypto___no_hyperlink_.pdf](https://github.com/darvinrio/yoresume/blob/e996bb093b00845baef7b4df141a10b9c3b9c98e/main.pdf))
 ### [Twitter](https://twitter.com/maybeYonas)
 
 
